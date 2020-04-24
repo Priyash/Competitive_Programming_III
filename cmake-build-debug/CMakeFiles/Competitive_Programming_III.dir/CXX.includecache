@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/VS_CODE_PROJECTS/Competitive_Programming_III/BackspaceStringCompare.cpp
+iostream
+-
+vector
+-
+string
+-
+
+D:/Projects/VS_CODE_PROJECTS/Competitive_Programming_III/GroupAnagrams.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+map
+-
+
+D:/Projects/VS_CODE_PROJECTS/Competitive_Programming_III/HappyNumber.cpp
+iostream
+-
+vector
+-
+
+D:/Projects/VS_CODE_PROJECTS/Competitive_Programming_III/MiddleNodeLinkedList.cpp
+cstdio
+-
+iostream
+-
+vector
+-
+

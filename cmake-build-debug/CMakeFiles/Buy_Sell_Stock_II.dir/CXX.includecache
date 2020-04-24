@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/VS_CODE_PROJECTS/Competitive_Programming_III/Buy_Sell_Stock_II.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/VS_CODE_PROJECTS/Competitive_Programming_III/Contiguous_Array.cpp
+iostream
+-
+unordered_map
+-
+vector
+-
+
